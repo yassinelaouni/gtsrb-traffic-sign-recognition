@@ -1,0 +1,13 @@
+.venv/
+.local-check/
+__pycache__/
+.ipynb_checkpoints/
+data/
+artifacts/
+*.keras
+*.h5
+*.zip
+kaggle.json
+.env
+.env.*
+!.env.example
