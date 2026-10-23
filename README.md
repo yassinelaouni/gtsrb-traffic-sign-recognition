@@ -4,6 +4,8 @@ Projet pédagogique en français pour classifier un panneau routier parmi **43 c
 
 [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yassinelaouni/gtsrb-traffic-sign-recognition/blob/main/traffic_sign_recognition.ipynb)
 
+📄 [Lire le rapport PDF illustré](output/pdf/gtsrb_explication_projet.pdf) : 8 pages en français pour comprendre les données, le CNN, l'entraînement, l'évaluation et l'utilisation dans Colab. Les illustrations générées avec ChatGPT et leurs prompts sont conservés dans [le dossier des illustrations](output/pdf/assets/README.md).
+
 Le bouton Colab fonctionnera après le premier push du notebook sur GitHub. Pour démarrer immédiatement, importer `traffic_sign_recognition.ipynb` dans [Google Colab](https://colab.research.google.com/) via **Fichier → Importer un notebook**.
 
 ## Utiliser le notebook

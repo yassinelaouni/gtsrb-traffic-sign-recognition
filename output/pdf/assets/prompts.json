@@ -1,0 +1,14 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-10-23",
+  "assets": [
+    {
+      "file": "traffic-signs-cover.png",
+      "prompt": "Use case: illustration-story. Asset type: cover illustration for a French educational PDF about a real GTSRB convolutional-neural-network traffic-sign-classification project. Primary request: an elegant editorial illustration of European road signs being observed through a computer-vision camera, showing the subject of the project in an immediately clear way. Wide landscape composition 3:2, quiet warm ivory background, crisp dark navy forms, restrained teal details and red sign borders. Feature one prominent realistic European circular speed-limit sign marked '50', one red octagonal 'STOP' sign and a triangular generic warning sign, set beside a simplified road. Add a subtle abstract pixel grid and a small camera lens to evoke image classification, not autonomous vehicle operation. High quality modern textured editorial illustration, tasteful paper grain, restrained shadows, strong readable silhouettes. Balanced composition with comfortable margins. No title, no prose, no logos, no watermark, no charts, no performance scores. Only the legitimate road sign text '50' and 'STOP' may appear."
+    },
+    {
+      "file": "cnn-features-illustration.png",
+      "prompt": "Use case: scientific-educational. Asset type: supporting editorial illustration in a French PDF explaining a CNN traffic sign image classifier. Primary request: an artistic visual metaphor for recognizing a road sign from pixels to learned patterns. Wide landscape 3:2 composition on a warm ivory background matching a modern editorial report. A single frontal red-bordered circular European speed-limit sign '50' at left transforms through a few separated floating translucent image-like tiles: a pixelated color image tile, a subtle edge-map tile with the circular outline and numeral strokes visible, then abstract navy and teal feature textures, ending in a small clean stack of 43 abstract class cards at right with one subtly emphasized card depicting the same 50 sign. This is an illustrative metaphor, not an exact neural-network architecture diagram. Use crisp refined editorial 3D-paper-cut illustration, restrained red, navy and teal, gentle lighting, generous whitespace, visually distinct stages. No written labels, no title, no arrows with text, no scores, no invented metrics, no logos, no watermark. Only road-sign numeral '50' may appear."
+    }
+  ]
+}
